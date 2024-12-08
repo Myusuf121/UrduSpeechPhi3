@@ -1,8 +1,8 @@
-**Unlocking Urdu Speech Sentiment with Fine-Tuned Phi3 Model**
+# Unlocking Urdu Speech Sentiment with Fine-Tuned Phi3 Model**
 
 Natural Language Processing (NLP) has come a long way in bridging the gap between human communication and machine understanding, but one area that still presents challenges is the analysis of emotions from spoken language — especially in underrepresented languages like Urdu. This notebook takes on the exciting task of fine-tuning the Phi3 model to classify sentiments from an Urdu speech emotions dataset, showcasing a compelling application of modern machine learning techniques.
 
-**What’s Inside the Notebook?**
+## What’s Inside the Notebook?**
 This notebook is more than just code — it’s a hands-on guide for anyone interested in NLP, sentiment analysis, or the burgeoning field of speech emotion recognition. Here’s what it covers in detail:
 
 **1. Understanding the Dataset**
